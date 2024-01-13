@@ -1,0 +1,18 @@
+.list-group {
+    margin-top: 50px;
+}
+.bar {
+    height: 71.8px;
+}
+
+.logo-harvard {
+    display: flex;
+    justify-content: center;
+}
+main {
+    height: 465px;
+}
+.list-group {
+    width: 200px;
+    margin-left: 30px;
+}

@@ -1,0 +1,2 @@
+* By executing various queries utilizing the AVG function to determine the audio aura
+* It might be a good idea to also consider the length of the song, which would be more precise to identify how much time the listener spends in determined 'aura'

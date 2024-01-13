@@ -1,0 +1,17 @@
+main {
+    padding-left: 20px;
+}
+.hello {
+    font-size: 70px;
+}
+.my-website {
+    font-size: 34px;
+    padding-top: 40px;
+}
+.more-about {
+    margin-top: 150px;
+    font-size: 25px;
+}
+h1, h2, h3 {
+    margin: 0;
+}

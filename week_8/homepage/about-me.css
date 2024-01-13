@@ -1,0 +1,14 @@
+.text {
+    padding-left: 50px;
+    font-size: 25px;
+    margin-right: 300px;
+}
+h1 {
+    font-size: 35px;
+}
+p {
+    width: 600px;
+}
+main {
+    display: flex;
+}
